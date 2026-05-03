@@ -1,0 +1,1 @@
+﻿This is an SDK for the development of a studying project called Anom
